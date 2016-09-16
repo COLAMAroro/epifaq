@@ -43,6 +43,9 @@ Qu'est-ce que ...
     boitier contenant un disque dur de 1 To, dont environ 200 Go sont
     utilisés par le *dump* (voire en dessous) et 700 Go sont disponibles pour
     vous installer un autre OS si vous le souhaitez.
+    Depuis la promo 2021, les racks sont remplacés par des disques dur externes
+    de 500Go, en USB 3.0 (Pensez à utiliser votre rallonge USB 3.0 en SM venant de
+    derrière la machine, sinon le système risque d'être très lent.
 
 ... le dump ?
     C'est le nom donné au contenu par défaut du disque du rack. Si vous n'avez
