@@ -113,6 +113,10 @@ Qu'est-ce que ...
 
     Dans le passé, Netsoul servait à plein d'autres choses : notification en
     cas de nouvel email, en cas de coup de téléphone, etc.
+    
+    Actuellement, il n'est plus nécessaire d'utiliser Netsoul pour se connecter à
+    internet. Aussi, le wifi est accessible, via votre adresse @epita.fr et votre
+    mot de passe SOCKS (celui reçu par SMS au début de SUP)
 
 ... l'AFS ?
     C'est le nom donné au stockage de fichiers en réseau de l'école. Tout ce
