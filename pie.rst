@@ -237,6 +237,9 @@ Comment ...
     dumps : lancez ``irssi`` en ligne de commande. Dans l’interface qui
     apparaît, entrez la commande ``/connect irc.rezosup.org`` puis ``/join
     #epita``. Vous êtes prêts à discuter !
+    
+    Il est aussi possible d'utiliser un client IRC web (comme ``KiwiIRC`` disponible
+    ici: https://kiwiirc.com/client
 
     .. [1] http://www.rezosup.org/
 
