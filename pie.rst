@@ -43,6 +43,9 @@ Qu'est-ce que ...
     boitier contenant un disque dur de 1 To, dont environ 200 Go sont
     utilisés par le *dump* (voire en dessous) et 700 Go sont disponibles pour
     vous installer un autre OS si vous le souhaitez.
+    Depuis la promo 2021, les racks sont remplacés par des disques dur externes
+    de 500Go, en USB 3.0 (Pensez à utiliser votre rallonge USB 3.0 en SM venant de
+    derrière la machine, sinon le système risque d'être très lent.
 
 ... le dump ?
     C'est le nom donné au contenu par défaut du disque du rack. Si vous n'avez
@@ -110,6 +113,10 @@ Qu'est-ce que ...
 
     Dans le passé, Netsoul servait à plein d'autres choses : notification en
     cas de nouvel email, en cas de coup de téléphone, etc.
+    
+    Actuellement, il n'est plus nécessaire d'utiliser Netsoul pour se connecter à
+    internet. Aussi, le wifi est accessible, via votre adresse @epita.fr et votre
+    mot de passe SOCKS (celui reçu par SMS au début de SUP)
 
 ... l'AFS ?
     C'est le nom donné au stockage de fichiers en réseau de l'école. Tout ce
@@ -230,6 +237,9 @@ Comment ...
     dumps : lancez ``irssi`` en ligne de commande. Dans l’interface qui
     apparaît, entrez la commande ``/connect irc.rezosup.org`` puis ``/join
     #epita``. Vous êtes prêts à discuter !
+    
+    Il est aussi possible d'utiliser un client IRC web (comme ``KiwiIRC`` disponible
+    ici: https://kiwiirc.com/client
 
     .. [1] http://www.rezosup.org/
 
