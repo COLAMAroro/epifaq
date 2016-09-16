@@ -58,3 +58,4 @@ Liste des contributeurs à cette FAQ :
 - Meven Courouble (promo 2019)
 - Yohann Leon (promo 2019)
 - Sandrine Maingourd (assistante de direction)
+- Corentin Rondier (promo 2021)
