@@ -76,6 +76,10 @@ Comment se loger près d'EPITA ?
     - Résidence Porte d'Italie (KB) [4]_ : parfait lorsque l'on se trouve en cycle
       ingénieur, elle est située à une centaine de mètres de la ligne 7 et propose
       des T1 et T1bis.
+      
+    Il est à noter que EPITA profite du site Studapart [5]_, qui permet de voir des logements
+    proches des 2 campus (avec une carte permettant de placer géographiquement les lieux et
+    établissements).
 
 .. [1] http://www.arpej.fr/residences/residence-pierre-gilles-de-gennes-2/
 
@@ -84,6 +88,8 @@ Comment se loger près d'EPITA ?
 .. [3] http://w2.fac-habitat.com/Georges-Mathe-Region-Ile-de-France/p/4/2/50/
 
 .. [4] http://www.arpej.fr/residences/residence-porte-ditalie/
+
+.. [5] https://logement.epita.fr/fr/epita/
 
 Quand puis-je faire mes études à l'étranger ?
     Lors du cursus, vous avez l'obligation d'effectuer au moins un semestre à
@@ -267,6 +273,9 @@ Qu'est-ce qu'une journée de TIG ?
     Pour les TIG infligées par l'administration, il est à noter qu'en cas
     d'absences en cours répétées il sera question de plusieurs jours de TIG et
     non une journée.
+
+    Généralement, vous ne souhaitez pas subir de TIG, à moins que vous n'aimiez
+    mesurer la surface du sous-sol d'EPITA KB en stylo par exemple.
 
 Où trouver des annales des partiels et autres examens de l'école ?
     Mastercorp [4]_ est un service collaboratif de partage d'annales et de
