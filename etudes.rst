@@ -275,7 +275,7 @@ Qu'est-ce qu'une journée de TIG ?
     non une journée.
 
     Généralement, vous ne souhaitez pas subir de TIG, à moins que vous n'aimiez
-    mesurer la surface du sous-sol d'EPITA KB en stylo par exemple.
+    mesurer la surface de l'Under en stylo par exemple.
 
 Où trouver des annales des partiels et autres examens de l'école ?
     Mastercorp [4]_ est un service collaboratif de partage d'annales et de
